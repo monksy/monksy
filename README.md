@@ -29,7 +29,7 @@ I'm a Principal Software Engineer with 15+ years of professional experience desi
 - **Digital Ownership & Privacy** – Facilitated discussions at jCrete.
 - **Testing Practices** – From Spock to ScalaTest and everything in between.
 
-See more of my speaking and writing [on my blog](https://mrmonksy.com/blog).
+See more of my speaking and writing [on my blog](https://mrmonksy.com/).
 
 ---
 
