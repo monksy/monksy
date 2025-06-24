@@ -44,7 +44,7 @@ See more of my speaking and writing [on my blog](https://mrmonksy.com/).
 ### 📫 Connect With Me
 - 📍 Chicago, IL
 - 🔗 [LinkedIn](https://linkedin.com/in/stevenkhicks)
-- 🧠 [Blog](https://mrmonksy.com/blog) – Insights on systems, Scala, and engineering culture.
+- 🧠 [Blog](https://mrmonksy.com/) – Insights on systems, Scala, and engineering culture.
 
 ---
 
